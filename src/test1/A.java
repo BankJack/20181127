@@ -3,6 +3,7 @@ package test1;
 /**
  * 接口A
  * @author Administrator
+ * 222
  */
 public interface A {
 	public String STR = "hello";
